@@ -1,0 +1,13 @@
+name = "Wen audio?"
+version = "0.1.0"
+author = "Anonymous"
+description = "An awesome game made in Turbo!"
+
+[canvas]
+width = 128
+height = 128
+
+# New env section for key-value string pairs.
+# Might be a good place for tracking stuff like program IDs.
+[env]
+foo = "hello!!!"
